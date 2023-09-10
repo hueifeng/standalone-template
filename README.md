@@ -42,5 +42,3 @@ This project has adopted the code of conduct defined by the [Contributor Covenan
 ## License
 
 .NET (including the runtime repo) is licensed under the [MIT](LICENSE.TXT) license.
-
-
